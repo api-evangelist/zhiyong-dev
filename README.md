@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-zhiyong-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://zhiyong.dev/
+Zhiyong Dev is a technology-focused company specializing in software development tools and API services. The company provides a suite of developer-oriented platforms, including API documentation, SDK generation, and integration solutions aimed at streamlining application development workflows. Their offerings target both enterprise and individual developers seeking robust, scalable, and well-documented APIs to accelerate product delivery and enhance system interoperability across diverse environments.
+
+**Areas:** Company · Software · DeveloperTools · APIs · Integration
+
+## zhiyong-dev on APIs.io
+
+Everything profiled for zhiyong-dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/zhiyong-dev/](https://apis.io/providers/zhiyong-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [zhiyong-dev Agent API](https://apis.io/apis/zhiyong-dev/zhiyong-dev-agent-api/) — The Agent API from zhiyong-dev — 1 operation(s) for agent.
+- [zhiyong-dev Agent Discovery.json API](https://apis.io/apis/zhiyong-dev/zhiyong-dev-agent-discovery-json-api/) — The Agent Discovery.json API from zhiyong-dev — 1 operation(s) for agent discovery.json.
+- [zhiyong-dev Agent Feedback API](https://apis.io/apis/zhiyong-dev/zhiyong-dev-agent-feedback-api/) — The Agent Feedback API from zhiyong-dev — 1 operation(s) for agent feedback.
+- [zhiyong-dev Agent Observation API](https://apis.io/apis/zhiyong-dev/zhiyong-dev-agent-observation-api/) — The Agent Observation API from zhiyong-dev — 1 operation(s) for agent observation.
+- [zhiyong-dev Agent Task API](https://apis.io/apis/zhiyong-dev/zhiyong-dev-agent-task-api/) — The Agent Task API from zhiyong-dev — 1 operation(s) for agent task.
+- [zhiyong-dev Agent Topic API](https://apis.io/apis/zhiyong-dev/zhiyong-dev-agent-topic-api/) — The Agent Topic API from zhiyong-dev — 1 operation(s) for agent topic.
+- [zhiyong-dev Community API](https://apis.io/apis/zhiyong-dev/zhiyong-dev-community-api/) — The Community API from zhiyong-dev — 2 operation(s) for community.
+- [zhiyong-dev Entity Feedback API](https://apis.io/apis/zhiyong-dev/zhiyong-dev-entity-feedback-api/) — The Entity Feedback API from zhiyong-dev — 1 operation(s) for entity feedback.
+- [zhiyong-dev Health API](https://apis.io/apis/zhiyong-dev/zhiyong-dev-health-api/) — The Health API from zhiyong-dev — 1 operation(s) for health.
+- [zhiyong-dev Search API](https://apis.io/apis/zhiyong-dev/zhiyong-dev-search-api/) — The Search API from zhiyong-dev — 1 operation(s) for search.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Zhiyong Dev Agentic Access](https://apis.io/agentic-access/zhiyong-dev/zhiyong-dev-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AgentFeedbackDiscoveryResponse](https://apis.io/schemas/zhiyong-dev/zhiyong-dev-agent-feedback-discovery-response/)
+- [CommunityFeedResponse](https://apis.io/schemas/zhiyong-dev/zhiyong-dev-community-feed-response/)
+- [CommunityThreadResponse](https://apis.io/schemas/zhiyong-dev/zhiyong-dev-community-thread-response/)
+- [CommunityTopicsResponse](https://apis.io/schemas/zhiyong-dev/zhiyong-dev-community-topics-response/)
+- [Health](https://apis.io/schemas/zhiyong-dev/zhiyong-dev-health/)
+- [SearchResponse](https://apis.io/schemas/zhiyong-dev/zhiyong-dev-search-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Zhiyong Dev Context](https://apis.io/jsonld/zhiyong-dev/zhiyong-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [zhiyong-dev API Rules](https://apis.io/rules/zhiyong-dev/zhiyong-dev-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Zhiyong Dev Domain Security](https://apis.io/security/zhiyong-dev/zhiyong-dev-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kg.zhiyong.dev/)
+- [Terms of service](https://zhiyong.dev/terms.html)
+- [Privacy policy](https://zhiyong.dev/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 36.9** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 54.3 |
+| Contract governance | 70.9 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 6.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 51.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/zhiyong-dev/](https://apis.io/providers/zhiyong-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for zhiyong-dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/zhiyong-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
